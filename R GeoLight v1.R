@@ -2,7 +2,7 @@
 #
 # testing BAS files in geoLight R package
 #
-#
+# 20140930 On github: finally
 
 
 setwd("/Users/thorveen/ WORK/flycatchers/geolocator data/2013")
